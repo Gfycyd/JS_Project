@@ -1,9 +1,13 @@
 # JS_Project
 My first js experience
-# Project Description:
-- API: https://rickandmortyapi.com/
-- b)                                                                  
-- c)basic barrier:
+## Project Description:
+# About:
+- It will be app in which you can easile find up to date information about rocket, core, capsule, pad, and launch data
+ with really nice and sexy pictures and convenient and easy interface.
+# Tools:
+- API: https://github.com/r-spacex/SpaceX-API
+-                                                                  
+- basic barrier:
      - SPA: JavaScript Application
      - API: Deals with real backend
      - Routing: At least three screens / pages
