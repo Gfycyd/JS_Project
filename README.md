@@ -1,9 +1,9 @@
 # JS_Project
 My first js experience
 # Project Description:
-*API: https://rickandmortyapi.com/
-*b)                                                                  
-*c)basic barrier:
+- API: https://rickandmortyapi.com/
+- b)                                                                  
+- c)basic barrier:
      - SPA: JavaScript Application
       - API: Deals with real backend
       - Routing: At least three screens / pages
